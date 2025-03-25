@@ -42,7 +42,7 @@ const About = () => {
 <p className='mt-3 mb-6 text-[17px] max-w-3xl leading-[30px]'>Passionate about the convergence of technology and creativity, I explore Artificial Intelligence, focusing on Deep Learning and Machine Learning frameworks such as TensorFlow and PyTorch. My aim is to innovate and address complex challenges in this evolving field.</p>
 <br></br>
           <ButtonLink
-            url='https://drive.google.com/file/d/1FL9GG0dALGiWr62hTnzIQ-PS1qOEl8bO/view?usp=sharing'
+            url='https://drive.google.com/file'
             text='View Resume →'
             padding={`p-3`}
           />
